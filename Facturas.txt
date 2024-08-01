@@ -1,0 +1,116 @@
+Maria 2
+Mancuernas Everlast 1 19.5 
+Zapatos Nike 1 182
+26.195
+201.5
+Liber 5
+Mancuernas Everlast 1 19.5
+Camisa Nike 3 58.5
+Zapatos Nike 1 182
+Termo Elite 1 6.5
+Shorts Puma 1 9.1
+35.828
+311.428
+Francisco 4
+Vendas Everlast 2 26
+Agarraderas Nike 5 32.5
+Termo Elite 1 6.5
+Shorts Puma 1 9.1
+9.633
+83.733
+Maria 4
+Camisa Nike 2 39
+Bicicleta Specialized 1 858
+Zapatos Nike 2 364
+Shorts Puma 3 27.3
+157.339
+1367.639
+Liber 2
+Vendas Everlast 11 157.30
+Zapatos Nike 1 200.20
+32.50
+357.50
+Liber 1
+Camisa Nike 5 107.25
+9.75
+107.25
+Maria 3
+Balon Adidas 30 300.30
+Shorts Puma 10 100.10
+Termo Elite 5 35.75
+39.65
+436.15
+Liber 1
+Bicicleta Specialized 1 858.00
+78.00
+858.00
+Francisco 2
+Bate Everlast 7 150.15
+Sandalias Crocks 25 3575.00
+338.65
+3725.15
+
+Francisco 3
+Sandalias Crocks 10 1430.00
+Balon_de_futbol Adidas 5 71.50
+Camisa Nike 10 214.50
+156.00
+1716.00
+Jesus 3
+Bolso Adidas 2 5.72
+Pelotas Everlast 1 14.30
+Sandalias Crocks 1 143.00
+14.82
+163.02
+Jesus 1
+Bicicleta Specialized 1 858.00
+78.00
+858.00
+Francisco 1
+Bolso Adidas 1 2.86
+0.26
+2.86
+Francisco 1
+Pelotas Everlast 29 414.70
+37.70
+414.70
+Francisco 5
+Termo Elite 6 42.90
+Zapatos Nike 9 1801.80
+Mancuernas Everlast 9 193.05
+Sandalias Crocks 0 0.00
+Camisa Nike 5 107.25
+195.00
+2145.00
+Francisco 3
+Agarraderas Nike 0 0.00
+Shorts Puma 192 1921.92
+Camisa Nike 3 64.35
+180.57
+1986.27
+Francisco 1
+Agarraderas Nike 3 21.45
+1.95
+21.45
+Francisco 2
+Sandalias Crocks 5 715.00
+Termo Elite 6 42.90
+68.90
+757.90
+Francisco 2
+Barra Independiente 2 57.20
+Camisa Nike 10 214.50
+24.70
+271.70
+Francisco 3
+agua_mineral minalba 6 85.80
+Shorts Puma 2 20.02
+Balon_de_futbol Adidas 2 28.60
+12.22
+134.42
+Francisco 3
+Balon_de_futbol Adidas 12 171.60
+Termo Elite 5 35.75
+Camisa Nike 1 21.45
+20.80
+228.80
